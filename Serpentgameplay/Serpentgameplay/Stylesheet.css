@@ -10,10 +10,10 @@
             padding: 0;
             overflow: hidden;
             background-color: mediumpurple;
-             display: block;
+            display: block;
             margin-right: auto;
             margin-left: auto;
-                        
+
 
         }
 
@@ -43,4 +43,18 @@
 
         footer {
             font-size: 75%;
+        }
+
+        a:link {
+            color: yellow;
+        }
+
+        a:hover {
+            color: lightgoldenrodyellow;
+            text-decoration: underline;
+        }
+
+
+        a:visited {
+            color: white;
         }
